@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <stop>false</stop>
+  <Lose>false</Lose>
+  <Level>0</Level>
+  <ClickNum>13</ClickNum>
+</PlayerData>
